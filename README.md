@@ -1,2 +1,1 @@
-# Mrakshithareddy.github.io
-Index.html
+# Mrakshithareddy.github.io 
